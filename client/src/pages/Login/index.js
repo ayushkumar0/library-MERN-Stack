@@ -38,7 +38,7 @@ function Login() {
     <div className="h-screen bg-primary flex items-center justify-center">
       <div className="authentication-form bg-white p-3 rounded">
         <h1 className="text-secondary text-2xl font-bold mb-1">
-          SHEYLIBRAY - LOGIN
+          LIBRAY - LOGIN
         </h1>
         <hr />
         <Form layout="vertical" onFinish={onFinish}>
@@ -54,7 +54,9 @@ function Login() {
           >
             <input type="email" placeholder="Email" />
           </Form.Item>
-          <Form.Item label="Password" name="password"
+          <Form.Item
+            label="Password"
+            name="password"
             rules={[
               {
                 required: true,
