@@ -1,4 +1,4 @@
-# library-MERN-Stack
+# 📓 library-MERN-Stack
 This repository contains the source code and documentation for a Library Management System developed as part of an internship project at Ethnus.
 
 ## Introduction
