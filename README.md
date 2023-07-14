@@ -22,4 +22,4 @@ The Library Management System is a web application built using the MERN stack (M
 
 
 ## Acknowledgment
-**🙏 **We would like to express our gratitude to Ethnus for providing us with the opportunity to work on this internship project and for their support throughout. This project was led by Ayush Kumar, and the team members, Kartik Patel, Souradip Ghosh, and Alisha Piplani, contributed significantly to the development of the system.
+🙏We would like to express our gratitude to Ethnus for providing us with the opportunity to work on this internship project and for their support throughout. This project was led by Ayush Kumar, and the team members, Kartik Patel, Souradip Ghosh, and Alisha Piplani, contributed significantly to the development of the system.
