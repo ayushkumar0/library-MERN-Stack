@@ -28,10 +28,12 @@ Username (Email):
 - Librarian: souradip.ghosh2020@vitbhopal.ac.in
 - Patron (End User): Kartik.patel2020@vitbhopal.ac.in, Ayush@gmail.com
 
-Password (same for all): 12345678
-Demo Link: Library Management System Demo
+Password (same for all): 12345678.
 
 Please note that these credentials are for testing purposes only and should not be used for actual production purposes.
+
+## Demo
+🎥 Check out the Library Management System in action! Watch the demo [here](https://drive.google.com/file/d/1gzlgaMWass1494lV5eC6mycq5aepyEeB/view).
 
 ## Acknowledgment
 🙏We would like to express our gratitude to Ethnus for providing us with the opportunity to work on this internship project and for their support throughout. This project was led by Ayush Kumar, and the team members, Kartik Patel, Souradip Ghosh, and Alisha Piplani, contributed significantly to the development of the system.
