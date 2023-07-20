@@ -29,6 +29,7 @@ Username (Email):
 - Patron (End User): Kartik.patel2020@vitbhopal.ac.in, Ayush@gmail.com
 
 Password (same for all): 12345678
+Demo Link: Library Management System Demo
 
 Please note that these credentials are for testing purposes only and should not be used for actual production purposes.
 
