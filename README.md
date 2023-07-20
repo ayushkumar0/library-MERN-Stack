@@ -20,7 +20,7 @@ The Library Management System is a web application built using the MERN stack (M
 - 🔐 **JWT Authentication and Password Encryption:** JSON Web Tokens for authentication and authorization, and password encryption for enhanced security.
 - 💅 **Ant Design Library:** UI library for React, providing customizable and well-designed components.
 
-##Credential Information for Testing:
+## Credential Information for Testing:
 Please use the following credentials to access different user roles in the Library Management System:
 
 Username (Email):
