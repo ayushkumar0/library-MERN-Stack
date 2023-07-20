@@ -20,6 +20,17 @@ The Library Management System is a web application built using the MERN stack (M
 - 🔐 **JWT Authentication and Password Encryption:** JSON Web Tokens for authentication and authorization, and password encryption for enhanced security.
 - 💅 **Ant Design Library:** UI library for React, providing customizable and well-designed components.
 
+##Credential Information for Testing:
+Please use the following credentials to access different user roles in the Library Management System:
+
+Username (Email):
+- Admin: ayush.kumar@vitbhopal.ac.in, alisha.piplani2020@vitbhopal.ac.in
+- Librarian: souradip.ghosh2020@vitbhopal.ac.in
+- Patron (End User): Kartik.patel2020@vitbhopal.ac.in, Ayush@gmail.com
+
+Password (same for all): 12345678
+
+Please note that these credentials are for testing purposes only and should not be used for actual production purposes.
 
 ## Acknowledgment
 🙏We would like to express our gratitude to Ethnus for providing us with the opportunity to work on this internship project and for their support throughout. This project was led by Ayush Kumar, and the team members, Kartik Patel, Souradip Ghosh, and Alisha Piplani, contributed significantly to the development of the system.
