@@ -9,7 +9,7 @@ The Library Management System is a web application built using the MERN stack (M
 - ✨ **User Roles and Access Management:** Implementing user roles (Patron, Librarian, and Admin) and managing access to different functionalities based on those roles.
 - 📖 **CRUD Operations on Books:** Create, Read, Delete, and Update operations for managing books in the library system.
 - 📋 **Issuing and Renewing Books:** Librarians can issue books to patrons (users) and renew the issued book status based on user requests.
-- 📚 Book Returns, Rent, and Fine Collection: Processing book returns and collecting rents and fines from patrons.
+- 📚  Rent, Book Returns, and Fine Collection: Processing book returns and collecting rents and fines from patrons.
 
 ## Technologies Used
 - 🛠️ **MongoDB:** NoSQL document database for flexible and scalable data storage.
